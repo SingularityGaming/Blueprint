@@ -1,3 +1,4 @@
+# Game Streaming & HPC Node
 10 Components:
 - Case
 - PSU
